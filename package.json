@@ -1,0 +1,25 @@
+{
+  "name": "proyectoexpress",
+  "version": "1.0.0",
+  "description": "API usando Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donGabo22/ProyectoExpress.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Gabriel Hernandez Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donGabo22/ProyectoExpress/issues"
+  },
+  "homepage": "https://github.com/donGabo22/ProyectoExpress#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
